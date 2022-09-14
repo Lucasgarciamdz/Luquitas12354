@@ -12,7 +12,7 @@ jobs:
           pkg-manager: pip
       - run:
           name: Running tests
-          command: pytest test_factorial.py
+          command: python3 tests.py
       
 
 workflows:
