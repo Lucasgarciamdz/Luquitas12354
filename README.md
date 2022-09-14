@@ -1,1 +1,2 @@
 # Luquitas12354
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Lucasgarciamdz/Luquitas12354/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Lucasgarciamdz/Luquitas12354/tree/main)
