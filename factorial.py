@@ -1,6 +1,6 @@
-#define a factorial fuction
-def factorial(n):
-    if n == 0:
+# define a factorial fuction
+def factorial_pro(m):
+    if m == 0:
         return 1
     else:
-        return n * factorial(n-1)
+        return m * factorial_pro(m-1)
